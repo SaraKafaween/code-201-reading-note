@@ -1,3 +1,5 @@
+Hello, I'm Sara Kafaween, I have graduated recently from balqa university as an electrical engineer, and I want to learn more and more about programming to being translate my projects in engineering into practical side
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SaraKafaween/reading-note/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
