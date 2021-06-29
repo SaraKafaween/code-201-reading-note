@@ -7,8 +7,7 @@ I'm Sara Kafaween and I'm recently graduated fro Balqa university as an Electric
 
 topic | link |
 :----- | :----: | 
-git add   | used to add files to the staging area |
-git commit  | will create a snapshot of the changes and save it to the git directory  |
-git push   | used to send local commits to the master branch of the remote repository |
-git pull   | merges all the changes present in the remote repository to the local working directory |
-git clone   | used to copy a repository. If the repository lies on a remote server |
+read01   | [Basic Git commads]() |
+reado2  | [Git Intro](https://sarakafaween.github.io/reading-note/reado2)  |
+read03   | used to send local commits to the master branch of the remote repository |
+
