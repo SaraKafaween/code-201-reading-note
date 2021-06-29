@@ -8,6 +8,6 @@ I'm Sara Kafaween and I'm recently graduated fro Balqa university as an Electric
 topic | link |
 :----- | :----: | 
 read01   | [Basic Git commads]() |
-reado2  | [Git Intro](https://sarakafaween.github.io/reading-note/reado2)  |
-read03   | used to send local commits to the master branch of the remote repository |
+read02  | [Git Intro](https://sarakafaween.github.io/reading-note/reado2)  |
+read03   | [markdown language]() |
 
