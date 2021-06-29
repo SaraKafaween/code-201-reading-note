@@ -1,13 +1,14 @@
-# reading-notes
+# Introduction
 
-![Open-mind](https://th.bing.com/th/id/OIP._IiK2u3Dv4YXYScToZLqWwAAAA?pid=ImgDet&rs=1)
+I'm Sara Kafaween and I'm recently graduated fro Balqa university as an Electrical engineer and I love this major,I so proud of it, that reson why I'm intrested with programming to simulate all projects and ideas into real practical items.
 
-A growth mindset contrasts with a fixed mindset. The latter is the limiting belief that the capacity to learn and improve cannot be meaningfully developed. The growth mindset, conversely, is open to the effort even if it takes time.
 
-**How to keep yourself in a growth mindset?**
+## Table of content
 
-1. Acknowledge and embrace imperfections.
-2. View challenges as opportunities.
-3. Try different learning tactics.
-
-to learn more about the [GROWTH-MINDSET](https://www.wgu.edu/blog/what-is-growth-mindset-8-steps-develop-one1904.html)
+Structure | Function |
+:----- | :----: | 
+git add   | used to add files to the staging area |
+git commit  | will create a snapshot of the changes and save it to the git directory  |
+git push   | used to send local commits to the master branch of the remote repository |
+git pull   | merges all the changes present in the remote repository to the local working directory |
+git clone   | used to copy a repository. If the repository lies on a remote server |
