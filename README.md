@@ -8,6 +8,6 @@ I'm Sara Kafaween and I'm recently graduated fro Balqa university as an Electric
 topic | link |
 :----- | :----: | 
 read01   | [Basic Git commads](https://sarakafaween.github.io/reading-note/read01) |
-read02  | [Git Intro](https://sarakafaween.github.io/reading-note/reado2)  |
+read02  | [Git Intro](https://sarakafaween.github.io/reading-note/read02)  |
 read03   | [markdown language](https://sarakafaween.github.io/reading-note/read03) |
 
