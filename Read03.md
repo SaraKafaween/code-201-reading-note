@@ -37,16 +37,16 @@ In programming, Semantics refers to the meaning of a piece of code — for examp
 
 #### These are some of the roughly 100 semantic elements available:
 
-+ <article>
-+ <aside>
-+ <details>
-+ <figcaption>
-+ <figure>
-+ <footer>
-+ <header>
-+ <main>
-+ <mark>
-+ <nav>
-+ <section>
-+ <summary>
-+ <time>
++ article
++ aside
++ details
++ figcaption
++ figure
++ footer
++ header
++ main
++ mark
++ nav
++ section
++ summary
++ time
