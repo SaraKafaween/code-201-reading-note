@@ -4,13 +4,6 @@ HTML tables allow web developers to arrange data into rows and columns.
 
 ![table](https://th.bing.com/th/id/R.d475bd519325841696d79c8dddc5b6e8?rik=veSYqzumtkrPUQ&pid=ImgRaw&r=0)
 
-The <table> tag defines an HTML table.
-
-Each table row is defined with a <tr> tag. Each table header is defined with a <th> tag. Each table data/cell is defined with a <td> tag.
-
-By default, the text in <th> elements are bold and centered.
-
-By default, the text in <td> elements are regular and left-aligned.
 
 #### Add a Border
 To add a border to a table, use the CSS border property
