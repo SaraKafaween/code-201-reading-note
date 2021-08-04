@@ -15,17 +15,17 @@ All the different form elements are covered in this chapter: [HTML Form Elements
 
 The HTML <form> element can contain one or more of the following form elements:
 
-+ <input>
-+ <label>
-+ <select>
-+ <textarea>
-+ <button>
-+ <fieldset>
-+ <legend>
-+ <datalist>
-+ <output>
-+ <option>
-+ <optgroup>
++ input
++ label
++ select
++ textarea
++ button
++ fieldset
++ legend
++ datalist
++ output
++ option
++ optgroup
 
 ### JS Events
 
