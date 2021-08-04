@@ -44,4 +44,4 @@ To set the border spacing for a table, use the CSS border-spacing property
 + Use the rowspan attribute to make a cell span many rows
 + Use the id attribute to uniquely define one table
 
-for mor [click here](https://www.w3schools.com/html/html_tables.asp)
+for more [click here](https://www.w3schools.com/html/html_tables.asp)
