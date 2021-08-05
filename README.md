@@ -16,7 +16,7 @@ class06   | [JS Object Literals; The DOM](code201/class-06.md) |
 class07   | [Object-Oriented Programming, HTML Tables](code201/class-07.md) |
 class08   | [CSS Website Layout](code201/class-08.md) |
 class09   | [Forms & JS Events](code201/class-09.md) |
-class10   | [HTML & JavaScript]() |
+class10   | [JavaScript Debugging](code201/class-10.md) |
 class11   | [HTML & JavaScript]() |
 class12   | [HTML & JavaScript]() |
 
