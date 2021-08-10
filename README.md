@@ -18,6 +18,6 @@ class08   | [CSS Website Layout](code201/class-08.md) |
 class09   | [Forms & JS Events](code201/class-09.md) |
 class10   | [JavaScript Debugging](code201/class-10.md) |
 class11   | [Audio, Video, Images](code201/class-11.md) |
-class12   | [HTML & JavaScript]() |
-
-
+class12   | [Chart.js, Canvas](code201/class-12.md) |
+class13   | [Local Storage](code201/class-13.md) |
+class14   | [HTML & JavaScript]() |
