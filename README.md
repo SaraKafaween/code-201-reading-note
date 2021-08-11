@@ -20,4 +20,5 @@ class10   | [JavaScript Debugging](code201/class-10.md) |
 class11   | [Audio, Video, Images](code201/class-11.md) |
 class12   | [Chart.js, Canvas](code201/class-12.md) |
 class13   | [Local Storage](code201/class-13.md) |
-class14   | [HTML & JavaScript]() |
+class14a   | [CSS Transforms, Transitions, and Animations]() |
+class14b   | [What Google Learned From Its Quest to Build the Perfect Team]() |
